@@ -1,5 +1,5 @@
 Customer Journey Analysis
-Overview
+
 This analysis focuses on understanding customer behavior on a website by examining user journeys through various pages, identifying key patterns, and evaluating differences between subscription plans. The analysis provides insights into which pages and sequences are most engaging, user behavior leading up to purchases, and how different subscription types influence navigation paths.
 
 Metrics Implemented
